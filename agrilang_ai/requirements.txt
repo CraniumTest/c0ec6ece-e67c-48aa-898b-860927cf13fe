@@ -1,0 +1,4 @@
+openai>=0.10.0
+flask>=2.0.0
+requests>=2.25.1
+numpy>=1.21.0
